@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tchmaseyho.github.io/sitemap.tchmaseyho.gz
+Sitemap: https://tchmaseyho.github.io/app/sitemap.tchmaseyho.gz
+Sitemap: https://tchmaseyho.github.io/assets/sitemap.tchmaseyho.gz
+Sitemap: https://tchmaseyho.github.io/css/sitemap.tchmaseyho.gz
+Sitemap: https://tchmaseyho.github.io/data/sitemap.tchmaseyho.gz
+Sitemap: https://tchmaseyho.github.io/includes/sitemap.tchmaseyho.gz
+Sitemap: https://tchmaseyho.github.io/item/sitemap.tchmaseyho.gz
+Sitemap: https://tchmaseyho.github.io/src/sitemap.tchmaseyho.gz
